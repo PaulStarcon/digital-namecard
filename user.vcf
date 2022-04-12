@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:Paul@starconind.com
 TEL;type=WORK;type=VOICE:+1619 674 5628
 item1.ADR;type=WORK;type=pref:;;1775 National Avenue;;;San Diego CA;92113
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.Starconind.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
